@@ -1,0 +1,31 @@
+.gitignore
+#configs
+/*.config.js
+
+#logs
+/*.log
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.husky
+.github
+.editorconfig
+.eslintrc.js
+jsconfig.json
+.eslint-rules
+.circleci
+.node-version
+jest-setup.js
+
+# production
+/dist
+/lib
+/build
+/tests
+
+# dependencies
+/node_modules

@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+.DS_Store
+
+# production
+/build
+/dist
+/storybook-static
+
+
+/index.css
+/index.js
